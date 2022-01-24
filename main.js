@@ -14,3 +14,4 @@ switch(number) {
   case 3:
     alert('Вы ввели число 2, а может и 3')
 }
+let x = 1;
